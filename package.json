@@ -1,0 +1,20 @@
+{
+  "name": "node-hw",
+  "version": "1.0.0",
+  "description": "Мій перший проєкт на Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladLavrinec/hw4-f4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladLavrinec/hw4-f4/issues"
+  },
+  "homepage": "https://github.com/VladLavrinec/hw4-f4#readme"
+}
